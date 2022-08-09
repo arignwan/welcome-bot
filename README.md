@@ -10,3 +10,6 @@ Plugin yang dibutuhkan :
 3. Express
 
 dah itu aja.
+
+# Preview
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gVtG2fj/Capture.png" alt="Capture" border="0"></a>
